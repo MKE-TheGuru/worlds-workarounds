@@ -101,6 +101,18 @@ Tested in v218
   **Credit**:  MKE_TheGuru  
   <BR>
 
+  ## **Unable to Convert World to FBS**  
+Unsure/unable to convert the world to file backed scripts?  
+  <BR>
+**Steps**:	Pull out an inventory or daily reward gizmo from the asset library. A popup will appear asking if you want to convert to FBS 
+<br>
+
+
+**Keywords**:  
+Tested in v228  
+**Credit**:  RJ_The_Creator  
+<br>
+
 # __Scripting Workarounds__  
 
 ## Local UIs not Loading Images on Binding Change  
